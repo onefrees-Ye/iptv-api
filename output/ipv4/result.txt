@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-09 06:23:54,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-10 06:33:42,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
@@ -51,7 +51,6 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 
 ☘️江苏频道,#genre#
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358
 
 ☘️湖南频道,#genre#
 
