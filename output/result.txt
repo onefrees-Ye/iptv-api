@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-19 20:37:10,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
+2026-05-20 07:00:20,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
@@ -346,6 +346,7 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
 新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
 内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend
 
 ☘️河北频道,#genre#
 邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
