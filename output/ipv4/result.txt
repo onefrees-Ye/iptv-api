@@ -1,18 +1,12 @@
 🕘️更新时间,#genre#
-2026-06-14 19:55:37,http://125.43.244.40:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-06-15 07:06:19,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://125.43.244.40:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://125.43.244.40:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://125.43.244.40:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-15,http://125.43.244.40:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 📡卫视频道,#genre#
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-东南卫视,http://125.43.244.40:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://125.43.244.40:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 
