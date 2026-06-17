@@ -1,11 +1,11 @@
-Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Date: None, Delay: 3233 ms, Speed: 0.50 M/s, Resolution: None
-Name: CCTV-17, URL: http://74.91.26.218:82/live/cctv17hd.m3u8, IPv_Type: ipv4, Date: None, Delay: 438 ms, Speed: 9.94 M/s, Resolution: 1920x1080
-Name: 东方卫视, URL: http://bp-resource-dfl.bestv.cn/148/3/video.m3u8, IPv_Type: ipv4, Date: None, Delay: 3472 ms, Speed: 0.58 M/s, Resolution: 1920x1080
-Name: 北京新闻, URL: https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio, IPv_Type: ipv4, Date: None, Delay: 4151 ms, Speed: 0.03 M/s, Resolution: None
-Name: 北京财经, URL: https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio, IPv_Type: ipv4, Date: None, Delay: 1902 ms, Speed: 0.06 M/s, Resolution: None
-Name: 第一财经, URL: http://a1live.livecdn.yicai.com/live/radio_tv.m3u8, IPv_Type: ipv4, Date: None, Delay: 777 ms, Speed: 0.06 M/s, Resolution: None
+Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Date: None, Delay: 3207 ms, Speed: 0.48 M/s, Resolution: None
+Name: CCTV-17, URL: http://74.91.26.218:82/live/cctv17hd.m3u8, IPv_Type: ipv4, Date: None, Delay: 421 ms, Speed: 9.12 M/s, Resolution: 1920x1080
+Name: 东方卫视, URL: http://bp-resource-dfl.bestv.cn/148/3/video.m3u8, IPv_Type: ipv4, Date: None, Delay: 2580 ms, Speed: 0.67 M/s, Resolution: 1920x1080
+Name: 北京新闻, URL: https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio, IPv_Type: ipv4, Date: None, Delay: 1252 ms, Speed: 0.08 M/s, Resolution: None
+Name: 北京财经, URL: https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio, IPv_Type: ipv4, Date: None, Delay: 1257 ms, Speed: 0.08 M/s, Resolution: None
+Name: 第一财经, URL: http://a1live.livecdn.yicai.com/live/radio_tv.m3u8, IPv_Type: ipv4, Date: None, Delay: 533 ms, Speed: 0.07 M/s, Resolution: None
 Name: 垫江综合, URL: rtmp://play-sh.quklive.com/live/1672366847646284, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 镇江新闻综合, URL: http://zjtv-wshls.homecdn.com/live/2aa50.m3u8, IPv_Type: ipv4, Date: None, Delay: 2555 ms, Speed: 0.50 M/s, Resolution: 1920x1080
+Name: 镇江新闻综合, URL: http://zjtv-wshls.homecdn.com/live/2aa50.m3u8, IPv_Type: ipv4, Date: None, Delay: 1870 ms, Speed: 0.59 M/s, Resolution: 1920x1080
 Name: 南宁新闻综合, URL: rtmp://tv.qntv.net/channellive/ch1?zguizd, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 名山综合, URL: rtmp://tv.yunxya.com:1937/channellive/mingshan, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 宝兴综合, URL: rtmp://tv.yunxya.com:1937/channellive/baoxing, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -22,4 +22,4 @@ Name: 石河子新闻综合, URL: rtmp://124.88.144.73:1935/live/xwzh, IPv_Type:
 Name: 祁门综合, URL: rtmp://tv.qmxrmt.com/chan/ch1, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 祁门综合, URL: rtmp://tv.qmxrmt.com/chan/ch1?zanhd, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 安多卫视, URL: rtmp://liveout.xntv.tv/a65jur/96iln2, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: TVBS亚洲, URL: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd, IPv_Type: ipv4, Date: None, Delay: 51 ms, Speed: 55.22 M/s, Resolution: 1920x1080
+Name: TVBS亚洲, URL: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd, IPv_Type: ipv4, Date: None, Delay: 292 ms, Speed: 11.58 M/s, Resolution: 1920x1080
