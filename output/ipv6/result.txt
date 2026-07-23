@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-23 06:59:10,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
+2026-07-23 19:50:29,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
@@ -268,9 +268,9 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?_upt=978cd8731706199708
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?_upt=978cd8731706199708
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
+无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
-无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 
 ☘️湖南频道,#genre#
 湖南都市,http://php.jdshipin.com:8880/iptv.php
@@ -313,10 +313,6 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
-
-☘️河南频道,#genre#
-洛阳科教,http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv
-洛阳文旅,http://devlivepull.migucloud.com/live/Q081CD54_C0.flv
 
 ☘️河北频道,#genre#
 邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
