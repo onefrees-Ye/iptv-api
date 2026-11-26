@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-26 11:55:35,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
+2026-11-27 03:24:26,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
@@ -423,5 +423,3 @@ CCTV-15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 
 🏛经典剧场,#genre#
 鹿鼎记,https://live.metshop.top/huya/23650774
-封神榜,https://live.metshop.top/huya/29465849
-射雕英雄传,https://live.metshop.top/huya/23824164
